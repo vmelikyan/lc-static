@@ -3,9 +3,12 @@ version: '0.0.3-alpha-1'
 
 environment:
   defaultServices:
-    - name: 'account-management-web'
-      repository: 'GoodRx/account-management-web'
+    - name: 'lc-test'
+      repository: 'vmelikyan/lc-test'
       branch: 'main'
-    - name: 'accounts-api'
-      repository: 'GoodRx/accounts-api'
+    - name: 'lc-test-4'
+      repository: 'vmelikyan/lc-test-4'
+      branch: 'main'
+    - name: 'lc-test-2'
+      repository: 'vmelikyan/lc-test-2'
       branch: 'main'
