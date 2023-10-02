@@ -9,3 +9,6 @@ environment:
     - name: 'lc-test-4'
       repository: 'vmelikyan/lc-test-4'
       branch: 'main'
+    - name: 'lc-test-2'
+      repository: 'vmelikyan/lc-test-2'
+      branch: 'main'
